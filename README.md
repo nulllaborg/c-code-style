@@ -1,3 +1,4 @@
+[中文版本](README_zh.md)
 # Recommended C style and coding rules
 
 This document describes C code style used by Tilen MAJERLE in his projects and libraries.
